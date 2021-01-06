@@ -73,3 +73,13 @@
 .feels {
   margin-bottom: 20px;
 }
+
+footer {
+  left: 0;
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  width: 100%;
+  color: black;
+  text-align: center;
+}

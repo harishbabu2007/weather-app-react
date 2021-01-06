@@ -66,6 +66,9 @@ function App() {
           </div>
         </div>
       )}
+      <footer>
+        <h1>Made by Harish</h1>
+      </footer>
     </div>
   );
 }
